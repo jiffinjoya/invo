@@ -1,0 +1,74 @@
+{
+	"retailerId": "1001",
+	"locale": "en_GB",
+	"widgetAreaCSS": "  ",
+	
+	"rows": [
+		{
+			"rowDisplayOrder": "1",
+			"columns": [
+				{
+					"displayOrder": "1",
+					"displayState": "Show",
+					"expandState": "Yes",
+					"title": "New Year Offer 1",
+					"width": "500",
+					"height": "400",
+					"contentHTML": " ",
+					"contentCSS": "  ",
+					"displayDevice": "Mobile",
+					"displayType": "Only Portal",
+					"displayFromDate": "01/01/2024",
+					"displayToDate": "31/01/2024"
+				},
+				{
+					"displayOrder": "2",
+					"displayState": "Show",
+					"expandState": "Yes",
+					"title": "New Year Offer 2",
+					"width": "500",
+					"height": "400",
+					"contentHTML": " ",
+					"contentCSS": "  ",
+					"displayDevice": "Desktop",
+					"displayType": "Only PDF",
+					"displayFromDate": "01/01/2024",
+					"displayToDate": "31/01/2024"
+				}
+			]
+		},
+		{
+			"rowDisplayOrder": "2",
+			"columns": [
+				{
+					"displayOrder": "1",
+					"displayState": "Show",
+					"expandState": "Yes",
+					"title": "New Year Offer 2.1",
+					"width": "500",
+					"height": "400",
+					"contentHTML": " ",
+					"contentCSS": "  ",
+					"displayDevice": "Mobile",
+					"displayType": "Only Portal",
+					"displayFromDate": "01/01/2024",
+					"displayToDate": "31/01/2024"
+				},
+				{
+					"displayOrder": "2",
+					"displayState": "Show",
+					"expandState": "Yes",
+					"title": "New Year Offer 2.2",
+					"width": "500",
+					"height": "400",
+					"contentHTML": " ",
+					"contentCSS": "  ",
+					"displayDevice": "Desktop",
+					"displayType": "Only PDF",
+					"displayFromDate": "01/01/2024",
+					"displayToDate": "31/01/2024"
+				}
+			]
+		}
+	]
+}

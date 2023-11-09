@@ -1,0 +1,44 @@
+{
+	"retailerId": "1001",
+	"locale": "en_GB",
+	"menuPanelCSS": "  ",
+	
+	"popups": [
+		{
+			"displayOrder": "1",
+			"displayState": "Show",
+			"loadingState": "Page Load",
+			"showInMenu": "Yes",
+			"menuLable": "Make Payment",
+			"externalLink": "",
+			"displayDevice": "Mobile",
+			"displayType": "Only Portal",
+			"displayFromDate": "01/01/2024",
+			"displayToDate": "31/01/2024",
+			"title": "New Year Offer 1",
+			"width": "500",
+			"height": "400",
+			"contentHTML": " ",
+			"contentCSS": "  ",
+			"iconSVGCode": ""
+		},
+		{
+			"displayOrder": "2",
+			"displayState": "Show",
+			"loadingState": "Page Load",
+			"showInMenu": "Yes",
+			"menuLable": "Make Payment",
+			"externalLink": "",
+			"displayDevice": "Mobile",
+			"displayType": "Only PDF",
+			"displayFromDate": "01/01/2024",
+			"displayToDate": "31/01/2024",
+			"title": "New Year Offer 1",
+			"width": "500",
+			"height": "400",
+			"contentHTML": " ",
+			"contentCSS": "  ",
+			"iconSVGCode": ""
+		}
+	]
+}
